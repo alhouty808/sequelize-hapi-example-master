@@ -1,0 +1,14 @@
+{
+  "name": "Homework-4-2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "hapi": "^8.0.0",
+    "sequelize": "^2.0.0-rc3",
+    "sequelize-cli": "^0.3.3",
+    "sqlite3": "^3.0.4"
+  }
+}
